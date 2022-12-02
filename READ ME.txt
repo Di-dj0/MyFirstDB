@@ -1,0 +1,22 @@
+-----------------------------------------------------------------------------------------------
+
+THIS FILE IS BEING SHARE VIA GITHUB FOR THE PURPOSE OF EASY ACCESS BETWEEN THE PARTIES INVOLVED
+WE DO NOT FAVOUR COPIES OF THE CODE FOR LATER IMPLEMENTATION USE IN THE RESPECTIVE DISCIPLINE
+
+-----------------------------------------------------------------------------------------------
+
+Link: https://github.com/Di-dj0/MyFirstDB
+
+Description:
+First Database created for the "Banco de dados" discipline in my Computer Engineering College.
+"Additional Info" contains the DDL and DML that I created for the complete setup of the example.
+The Auto-Generated one by PgAdmin4 still trustworphy, but I preffer mine.
+
+Students:
+Luiz Gustavo Comarella
+
+Prof.:
+Sydgley Camargo de Andrade
+
+Discipline: CP45E - 2022.2
+
